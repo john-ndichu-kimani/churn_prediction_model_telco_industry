@@ -1,4 +1,4 @@
-# Safaricom Customer Churn Prediction
+# Customer Churn Prediction For Telco
 
 ## Overview
 This project implements a machine learning pipeline to predict customer churn for a telecommunications company like Safaricom. The model helps identify customers who are likely to discontinue services, enabling proactive retention strategies.
